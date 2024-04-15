@@ -1,6 +1,6 @@
 clear all;fclose all;clc;clear;close all
 a1='/MATLAB Drive/zmla_Eday_CESM2_amip_r1i1p1f1_gn_19500101-19591231.nc'; %%% daily data
-a2 ='/MATLAB Drive/zmla_Eday_INM-CM5-0_amip_r1i1p1f1_gr1_19790101-19881231.nc';
+a2 ='/home/rushil/Desktop/BTP-1/BTP1/day_wise_averages/dayavg_zmla_Eday_INM-CM4-8.nc';
 %C = load('coast');
 
 
